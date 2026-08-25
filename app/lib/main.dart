@@ -5,7 +5,7 @@ import "config.dart";
 import "services/api_client.dart";
 import "state/deck_provider.dart";
 import "ui/screens/home_screen.dart";
-import "ui/screens/status_screen.dart";
+import "ui/screens/step_placeholder_screen.dart";
 import "ui/screens/suits_upload_screen.dart";
 import "ui/theme.dart";
 
