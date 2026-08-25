@@ -1,0 +1,5 @@
+# M0 : stub uniquement. Le pipeline réel (M1) ajoutera :
+# pillow, requests, python-dotenv (+ binaires système pngquant / oxipng).
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9

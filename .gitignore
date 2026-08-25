@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+server/data/
+
+# Flutter / Dart
+app/build/
+app/.dart_tool/
+app/.idea/
+app/*.iml
+app/.flutter-plugins*
+app/android/.gradle/
+
+# Divers
+.DS_Store
+*.log
